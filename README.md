@@ -15,6 +15,8 @@
 # 📌 Table of Contents
 - 🎯 [About](#about)
 - 🚀 [How to Join](#how-to-join)
+- ⚙️ [Setup Script](#Setup-Script)
+- 🛠[How to use](#How-to-use)
 - 📝 [Projects](#projects)
 - 🌐 [Community](#community)
 - 🤝 [Contributing](#contributing)
@@ -34,6 +36,26 @@ Our mission is to solve these challenges in an ethical, collaborative, and frien
 2. **Join our Discord community** to connect with developers, find collaborators, and share projects.  
 3. **Contribute to projects**: submit PRs, star repos, or help others improve their work.  
 
+# ⚙️ Setup Script
+
+To help contributors get started quickly with the CollabStars project, we provide a setup script written in Bash.
+
+This script will:
+
+- Clone the repository if it doesn't exist locally.
+- Pull the latest changes if the repo is already cloned.
+- Enter the project directory.
+- Create and switch to a new branch called `minha-feature` (you can rename this branch as needed).
+
+## 🛠 How to use
+
+1. Make sure you have `git` and `bash` installed on your system.
+2. Download or clone the repository.
+3. Run the setup script from the project root:
+
+```bash
+./collabstars-setup.sh
+```
 ---
 
 # 🌐 Community
