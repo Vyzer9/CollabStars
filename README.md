@@ -38,8 +38,7 @@ Our mission is to solve these challenges in an ethical, collaborative, and frien
 
 # 🌐 Community
 Stay connected and get updates:  
-- **Discord:** [Join here](#)  
-- **Twitter:** [Follow us](#)  
+- **Discord:** [CollabStars](https://discord.gg/MpHQ9H8ECp)   
 
 ## 🤝 Contributing
 We welcome contributions from developers of all skill levels. To contribute:  
@@ -59,6 +58,9 @@ To create an ethical, supportive, and collaborative space where developers can:
 
 # 📞 Contact
 - Contact the author via [GitHub](https://github.com/Vyzer9)
+<img width="351" height="390" alt="image" src="https://github.com/user-attachments/assets/60c12ae8-1e10-47fc-a3f8-d735567939f6" />
+
 
 ## 📝 License
 This repository is licensed under the [MIT License](LICENSE).
+
