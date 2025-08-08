@@ -21,6 +21,7 @@
 - 🌐 [Community](#community)
 - 🤝 [Contributing](#contributing)
 - 🏆 [Mission](#mission)
+- 📷 [Screenshot](#Screenshot)
 - 📝 [License](#license)
 - 📞 [Contact](#contact)
 
@@ -76,8 +77,15 @@ To create an ethical, supportive, and collaborative space where developers can:
 - Gain recognition for their repositories  
 - Learn and grow together in the GitHub community
 
-## Scren
-<img width="1332" height="582" alt="image" src="https://github.com/user-attachments/assets/eeb96ca1-1bf6-4bed-b370-e2a104ce6d87" />
+# 📷 Screenshot
+Here you can see the organization on GitHub and our community on Discord:
+
+## GitHub Organization
+<img width="1332" height="582" alt="GitHub Organization" src="https://github.com/user-attachments/assets/eeb96ca1-1bf6-4bed-b370-e2a104ce6d87" />
+
+## Discord Community
+<img width="1751" height="832" alt="Discord Community" src="https://github.com/user-attachments/assets/b51ba056-c32b-43ce-82bc-11011df53ed8" />
+
 
 ---
 
