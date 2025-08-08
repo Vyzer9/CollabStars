@@ -15,7 +15,7 @@
 # 📌 Table of Contents
 - 🎯 [About](#-about)
 - 🚀 [How to Join](#-how-to-join)
-- ⚙️ [Setup Script](#-Setup-Script)
+- ⚙️ [Setup Script](#%EF%B8%8F-setup-script)
 - 🛠[How to use](#-How-to-use)
 - 🌐 [Community](#-community)
 - 🤝 [Contributing](#-contributing)
