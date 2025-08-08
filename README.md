@@ -76,6 +76,9 @@ To create an ethical, supportive, and collaborative space where developers can:
 - Gain recognition for their repositories  
 - Learn and grow together in the GitHub community
 
+## Scren
+<img width="1332" height="582" alt="image" src="https://github.com/user-attachments/assets/eeb96ca1-1bf6-4bed-b370-e2a104ce6d87" />
+
 ---
 
 # 📞 Contact
