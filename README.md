@@ -17,7 +17,6 @@
 - 🚀 [How to Join](#-how-to-join)
 - ⚙️ [Setup Script](#-Setup-Script)
 - 🛠[How to use](#-How-to-use)
-- 📝 [Projects](#-projects)
 - 🌐 [Community](#-community)
 - 🤝 [Contributing](#-contributing)
 - 🏆 [Mission](#-mission)
