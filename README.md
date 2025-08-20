@@ -90,7 +90,6 @@ Here you can see the organization on GitHub and our community on Discord:
 
 # 📞 Contact
 - Contact the author via [GitHub](https://github.com/Vyzer9)
-<img width="351" height="390" alt="image" src="https://github.com/user-attachments/assets/60c12ae8-1e10-47fc-a3f8-d735567939f6" />
 
 
 ## 📝 License
