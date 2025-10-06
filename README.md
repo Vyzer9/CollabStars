@@ -1,7 +1,7 @@
 # ⭐ CollabStars
 <img width="134" height="136" alt="image" src="https://github.com/user-attachments/assets/b3a02fb6-e614-4ba5-b991-ea2d7719ab77" />
 
-
+porra
 ![CollabStars](https://img.shields.io/badge/CollabStars-%F0%9F%8C%9F-blue?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Vyzer9/CollabStars?style=for-the-badge)
