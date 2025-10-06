@@ -9,9 +9,11 @@
 > ⚠️ **Disclaimer**  
 > This repository and community are dedicated to collaboration, learning, and support among developers.  
 > All shared content should be used ethically and respectfully.
-affasff
-e issoccacacagfjjjjjjjjjjjjjjjjj
-lçjçk~gagaga
+
+# opa
+eai familia
+
+
 # 📌 Table of Contents
 - 🎯 [About](#-about)
 - 🚀 [How to Join](#-how-to-join)
